@@ -25,7 +25,7 @@ ul.nav a { zoom: 1; }  /* la propiedad de zoom da a IE el desencadenante hasLayo
         <div align="center"><a href="promociones.html">Promociones</a></div>
       </li>
       <li>
-        <div align="center"><a href="#">Picadas</a></div>
+        <div align="center"><a href="picadas.html">Picadas</a></div>
       </li>
       <li>
         <div align="center"><a href="#">Pedidos</a></div>
